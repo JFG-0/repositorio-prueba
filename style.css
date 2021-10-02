@@ -24,3 +24,16 @@ body{
     padding: 16px;
     border-radius: 8px;
 }
+
+.element-list-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.element-2{
+    background: linear-gradient(180deg, rgba(103, 196, 168, 0.2) 0%, rgba(103, 196, 168, 0.0466632) 75.7%, rgba(103, 196, 168, 0) 100%);
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+    margin: 16px;
+    padding: 16px;
+    border-radius: 8px;
+}
